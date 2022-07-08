@@ -1,0 +1,7 @@
+{
+    "interaction": {
+        "type": "script",
+        "path": "/etc/ANXCamera/anx.js",
+        "on_change": "reload"
+    }
+}
