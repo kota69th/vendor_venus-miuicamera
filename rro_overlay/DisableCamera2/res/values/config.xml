@@ -5,5 +5,6 @@
          Note: this MUST not be used to randomly disable components, ask for approval first! -->
     <string-array name="config_disableApksUnlessMatchedSku_apk_list" translatable="false">
         <item>com.android.camera2</item>
+        <item>app.grapheneos.camera</item>
     </string-array>
 </resources>
